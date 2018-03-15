@@ -1,0 +1,10 @@
+dogs
+dog
+breeds
+facts
+pets
+times
+human
+interesting
+people
+teeth

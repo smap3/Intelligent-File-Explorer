@@ -1,0 +1,12 @@
+/home/nsk/Test_Folder/bat2.jpeg
+/home/nsk/Test_Folder/i-bat.jpeg
+/home/nsk/Test_Folder/i_cat_gray.jpg
+/home/nsk/Test_Folder/i_cat.jpg
+/home/nsk/Test_Folder/i_dog.jpeg
+/home/nsk/Test_Folder/i_fish_bike.jpg
+/home/nsk/Test_Folder/i_goat.jpeg
+/home/nsk/Test_Folder/owl.jpeg
+/home/nsk/Test_Folder/scenery.jpeg
+/home/nsk/Test_Folder/t_g1.txt
+/home/nsk/Test_Folder/t_g2.txt
+/home/nsk/Test_Folder/tiger.jpeg

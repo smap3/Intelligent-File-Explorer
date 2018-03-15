@@ -1,0 +1,4 @@
+['n02129604 tiger, Panthera tigris' 'n02123159 tiger cat' 'n02391049 zebra'
+ 'n02128925 jaguar, panther, Panthera onca, Felis onca'
+ 'n02127052 lynx, catamount']
+

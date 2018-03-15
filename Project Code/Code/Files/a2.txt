@@ -1,0 +1,1 @@
+Metadata:- Title: Kuch Na Kaho- Author: Kumar Sanu- Album: 1942 A Love Story- Duration: 5 min 46 sec 253 ms- Track number: 32- Channel: Joint stereo- Sample rate: 44.1 kHz- Bits/sample: 16 bits- Compression rate: 12.6x- Bit rate: 112.0 Kbit/sec (constant)- Comment: www.samsej.com- Format version: MPEG version 1 layer III- MIME type: audio/mpeg- Endianness: Big endian

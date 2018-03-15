@@ -1,0 +1,8 @@
+/home/nsk/Desktop/Start/Begin1/Files/t_d1.txt
+/home/nsk/Desktop/Start/Begin1/Files/t_d2.txt
+/home/nsk/Desktop/Start/Begin1/Files/t_d3.txt
+/home/nsk/Desktop/Start/Begin1/Files/t_d4.txt
+/home/nsk/Desktop/Start/Begin1/Files/t_d5.txt
+/home/nsk/Desktop/Start/Begin1/Files/t_d6.txt
+/home/nsk/Desktop/Start/Begin1/Files/t_d7.txt
+/home/nsk/Desktop/Start/Begin1/Files/t_d8.txt

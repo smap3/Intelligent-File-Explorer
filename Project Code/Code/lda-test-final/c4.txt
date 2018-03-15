@@ -1,0 +1,4 @@
+['n02123045 tabby, tabby cat' 'n02123159 tiger cat'
+ 'n02124075 Egyptian cat' 'n02119022 red fox, Vulpes vulpes'
+ 'n02127052 lynx, catamount']
+

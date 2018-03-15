@@ -1,0 +1,5 @@
+['n02403003 ox' 'n02437312 Arabian camel, dromedary, Camelus dromedarius'
+ 'n02415577 bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis'
+ 'n02091831 Saluki, gazelle hound'
+ 'n02408429 water buffalo, water ox, Asiatic buffalo, Bubalus bubalis']
+

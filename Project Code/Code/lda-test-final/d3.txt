@@ -1,0 +1,4 @@
+['n02099601 golden retriever' 'n02099712 Labrador retriever'
+ 'n02088466 bloodhound, sleuthhound' 'n02099849 Chesapeake Bay retriever'
+ 'n02101556 clumber, clumber spaniel']
+

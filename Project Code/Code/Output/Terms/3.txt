@@ -1,0 +1,10 @@
+number
+cat
+time
+rate
+fact
+million
+percent
+dont
+human
+love

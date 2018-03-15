@@ -1,0 +1,12 @@
+/home/nsk/Desktop/Start/Begin1/Files/bat2.txt
+/home/nsk/Desktop/Start/Begin1/Files/i-bat.txt
+/home/nsk/Desktop/Start/Begin1/Files/i_cat_gray.txt
+/home/nsk/Desktop/Start/Begin1/Files/i_cat.txt
+/home/nsk/Desktop/Start/Begin1/Files/i_dog.txt
+/home/nsk/Desktop/Start/Begin1/Files/i_fish_bike.txt
+/home/nsk/Desktop/Start/Begin1/Files/i_goat.txt
+/home/nsk/Desktop/Start/Begin1/Files/owl.txt
+/home/nsk/Desktop/Start/Begin1/Files/scenery.txt
+/home/nsk/Desktop/Start/Begin1/Files/t_g1.txt
+/home/nsk/Desktop/Start/Begin1/Files/t_g2.txt
+/home/nsk/Desktop/Start/Begin1/Files/tiger.txt

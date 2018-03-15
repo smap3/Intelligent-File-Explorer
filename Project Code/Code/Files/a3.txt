@@ -1,0 +1,1 @@
+Metadata:- Title: Pyar Hua Chupke Se- Author: Kavita Krishnamoorthy- Album: 1942 A Love Story- Duration: 5 min 15 sec 339 ms- Music genre: 90+ Hindi- Channel: Stereo- Sample rate: 44.1 kHz- Bits/sample: 16 bits- Compression rate: 11.0x- Bit rate: 128.0 Kbit/sec (constant)- Format version: MPEG version 1 layer III- MIME type: audio/mpeg- Endianness: Big endian
